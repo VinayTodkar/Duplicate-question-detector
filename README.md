@@ -4,8 +4,7 @@ An end-to-end Machine Learning web application that identifies whether two quest
 
 ## 🚀 Live Demo
 [**Click here to try the live app**]
-(https://duplicate-question-detector-etgb.onrender.com)
-
+(https://duplicate-question-detector-hgln.onrender.com)
 ## 📋 Project Overview
 This project uses a **Random Forest Classifier** combined with **TF-IDF Vectorization** and custom feature engineering to detect duplicate questions with high accuracy. It processes text inputs, extracts over 6,000 features, and returns a prediction with a confidence score in under a second.
 
