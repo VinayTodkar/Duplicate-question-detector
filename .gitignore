@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments (if you use them locally)
+.venv/
+venv/
+
+# IDEs (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebooks (Optional: if you don't want to upload notebooks)
+.ipynb_checkpoints
+
+# Large Data Files (Optional: if you have large CSVs locally)
+# *.csv
+# *.data
+
+# ⚠️ IMPORTANT: DO NOT IGNORE YOUR MODEL FILES IF YOU WANT TO DEPLOY THEM
+# If you want model.pkl and cv.pkl on GitHub/Render, DO NOT list them here.
+# If you list them here, they will NOT be uploaded.
+
+# Example of what TO IGNORE (Secrets/Keys):
+.env
+*.key
+*.pem   
